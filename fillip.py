@@ -1,1 +1,1 @@
-print("Fillip")
+print("Fillip er dum")
