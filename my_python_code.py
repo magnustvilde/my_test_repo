@@ -1,0 +1,1 @@
+print('I hereby give you this code')
