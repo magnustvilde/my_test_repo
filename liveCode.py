@@ -4,3 +4,4 @@ run = True
 while run == True:
     string = input()
     exec(string)
+# fantastisk og kul kode av sigurd
