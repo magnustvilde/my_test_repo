@@ -7,5 +7,9 @@ print('\n\n HENT TING'
 
 print('\n\n SEND TING'
 '\n git add .'
-'\n git commit -m \"Min melding!\"'
+'\n git commit -m \"[melding]\"'
 '\n git push')
+
+print('\n\n BRANCH'
+'\n git branch'
+'\n git switch [branch]')
