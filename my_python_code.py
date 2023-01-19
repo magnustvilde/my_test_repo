@@ -7,6 +7,9 @@ print('My existing code got an update meanwhile')
 
 print(21)
 
+def my_amazing_function():
+    return 'This does nothing'
+    
 ## code for new branch
 
 print("Umair sin kode")
