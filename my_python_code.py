@@ -12,3 +12,5 @@ print(21)
 print("Umair sin kode")
 
 print(5+2)
+
+print(22**2 - 22)
