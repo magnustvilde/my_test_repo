@@ -12,4 +12,4 @@ print('\n\n SEND TING'
 
 print('\n\n BRANCH'
 '\n git branch'
-'\n git switch [branch]')
+'\n git checkout [branch]')
