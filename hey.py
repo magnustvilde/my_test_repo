@@ -7,6 +7,9 @@ def my_amazing_function():
 
 # not adding any code, just a comment
 
+<<<<<<< HEAD
 print('some useless code')
+=======
+>>>>>>> main
 
 # a comment
