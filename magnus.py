@@ -8,3 +8,8 @@ while True:
 x = lambda y, z : y>z
 
 # vi lager en konflikt
+
+print('HELLO WORLD')
+
+# this is my code in MAIN
+[print("Hello world") for i in range(10)]
