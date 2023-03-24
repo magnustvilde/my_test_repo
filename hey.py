@@ -13,3 +13,10 @@ print('some useless code')
 >>>>>>> main
 
 # a comment
+
+# i
+# create
+# multiple
+# lines 
+# of
+# code
