@@ -3,5 +3,12 @@
 
 [print('Hello') for i in range(5)]
 
+
+print("python")
+
+"lol"
+
 # trying to create a merge conflict in the same branch
-x = lambda y, z : y>z
+
+
+def x(y, z): return y > z
