@@ -18,3 +18,9 @@ def x(y, z): return y > z
 
 
 def x(y, z): return y > z
+
+
+print('HELLO WORLD')
+
+# this is my code in MAIN
+[print("Hello world") for i in range(10)]
