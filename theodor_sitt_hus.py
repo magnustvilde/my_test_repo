@@ -6,3 +6,5 @@ print("""
      _||"|_
     ~^~^~^~^
 """)
+
+print(f"Jeg bor her ^^")
