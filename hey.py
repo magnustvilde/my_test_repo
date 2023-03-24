@@ -1,5 +1,6 @@
 while True:
     print("FrontLine")
+<<<<<<< HEAD
 
 
 def my_amazing_function():
@@ -20,3 +21,6 @@ print('some useless code')
 # lines 
 # of
 # code
+=======
+    print("Banan")
+>>>>>>> origin/banan
